@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AswiniThej
-- 👀 I’m interested in Automation, Hadoop & Hive
-- 🌱 I’m currently learning Gauge, Hadoop
-- 💞️ I’m looking to learn new things
+- 👀 I got stuck in mid of doing and not doing my work
+-💞️ I’m searching for thing i would like to pursude my career in
+- 
 
 <!---
 AswiniThej/AswiniThej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
